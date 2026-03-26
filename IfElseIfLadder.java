@@ -1,5 +1,5 @@
-public class ifelseifadder {
-public class Ifelseifadder {
+public class IfElseIfLadder {
+   
     public static void main(String[] args) {
         int marks=83;
         if(marks>=90){
@@ -11,5 +11,8 @@ public class Ifelseifadder {
         }else if(marks>60){
             System.out.println("D grade");
         }else
-            System.out.println("Fail");    
+            System.out.println("Fail");
+    
+
+    }
 }
